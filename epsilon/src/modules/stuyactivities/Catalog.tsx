@@ -133,6 +133,7 @@ const Catalog = () => {
             }
 
             if (orgError) {
+                console.log("Error fetching organizations:", orgError);
                 enqueueSnackbar(
                     "Error fetching organizations. Contact it@stuysu.org for support.",
                     { variant: "error" },
