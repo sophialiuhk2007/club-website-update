@@ -1,0 +1,15 @@
+{
+    "short_name": "Epsilon",
+    "name": "Epsilon",
+    "icons": [
+        {
+            "src": "logo.png",
+            "type": "image/png",
+            "sizes": "742x757"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#34c5db",
+    "background_color": "#ffffff"
+}
